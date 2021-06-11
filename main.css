@@ -1,0 +1,42 @@
+/* Kacie Kasner CSS Project */
+.wrapper{
+    margin:5px;
+    background-color: beige;
+}
+
+.nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 200px;
+    height: 100px;
+    padding: 5px;
+    background-color: gold;
+    border: 5px inset red;
+}
+
+#navigation {
+    text-align: left;
+    color: darkred;
+    font-family:'Comic Sans', Arial, sans-serif;
+}
+
+.title h1{
+    color: gold;
+    text-align: center;
+}
+
+.title h3{
+    color: darkred;
+    text-align: center;
+}
+
+.main{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border: 3px solid darkred;
+}
+
+#slytherin{
+    color:darkgreen;
+    font-weight:bold;
+}
